@@ -1,3 +1,4 @@
+# The code is under reorganizing for a better structure and easier to read and understand
 # Improving Bug Detection via Context-based Code Representation Learning and Attention-based Neural Networks
 
 Bug detection has been shown to be an effective way to help developers in detecting bugs early, thus, saving
