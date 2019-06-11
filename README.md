@@ -1,4 +1,3 @@
-# The code is under reorganizing for a better structure and easier to read and understand
 # Improving Bug Detection via Context-based Code Representation Learning and Attention-based Neural Networks
 
 Bug detection has been shown to be an effective way to help developers in detecting bugs early, thus, saving
@@ -19,3 +18,27 @@ that our tool can have a relative improvement up to 160% on F score when compari
 bug detection approaches. Our tool can detect 48 true bugs in top 100 reported ones, which is 24 more true
 bugs when comparing with other baselines. We also reported that our representation is better suitable for bug
 detection and relatively improves over the other representations up to 206% in accuracy.
+
+----------
+
+# Data Set
+
+Our data set include two files:
+
+1. patch_files.tar.gz: It contains the bug fix code for each bug id. The patch files are separated by project. All versions are included together in order to avoid that one bug fix can influence more than one version of code. Link: https://drive.google.com/open?id=1iD4d1WpKmGVgqADkhhFFrOUS5RM53nbg
+
+2. detection_data.tar.gz: It contains all code for each version and a bug summary file for each version. The data is separated by project, and in each project, code is separated by version with different folder and a summary file. The data in the summary file which is the picke file is a 2-dimensional array with shape [N, 6], N is the number of methods with bug, 6 is the number of info one method carries with format [method name, class name or 'NaN' if no class, soure code, bug id, java file name path, affect version id]. Link: https://drive.google.com/open?id=1LjsypaXbbmhIB05LYdR-sGmnmqZQdvOy
+
+In order to run our model, you need to download these two files. If you want to run our model in different data set, you need to format your data set into the same format as our data set. Also, you need to fix the versions.json file. In that file, it stores the information about the projects and versions of these projects.
+
+----------
+
+# Run our model
+
+1. Unzip two data set into two folders.
+
+2. Set the "data_path" in config.ini to the path that you store the data from detection_data.tar.gz. Set the "patch_file_path" in config.ini to the path that you store the data from patch_files.tar.gz. Set the "processed_data_path" to the path that you want to store the processed data for running the model.
+
+3. Run "data_process.py" to process the data and get well formated data set.
+
+4. Run "main.py" to get the evaluation results and running time.
