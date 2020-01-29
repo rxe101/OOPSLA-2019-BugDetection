@@ -82,8 +82,8 @@ def code_rollback(input_path, output_path, bug_summary, project_name, version_ou
         print(bug_line[1], file=file_)
 
 
-ver_intput = open("versions.json","r")
-versions = json.load(ver_intput)
+ver_input = open("versions.json","r")
+versions = json.load(ver_input)
 config = configparser.ConfigParser()
 input_root = config.get('baseconf', 'data_path')
 output_path = config.get('baseconf', 'processed_data_path')

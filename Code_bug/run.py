@@ -1,1 +1,27 @@
-AX9oQqXZsjNm9EZR00SD8F2kuhAMJCQNrBczC1RAzFILHJ4eeC+Eo+APn8CykffKk3eE2JSbq1jELtndghhnEQ2OotH5udGiq7V+DrojxDQWLhZKACTARdaWXpfCeO6hemLrvrlvRoPTBMQoHVe-ZJrcVoJ9GgqSf90rugDnSrrvKutDPTTiFjLAeduQCYuJIMw+bWCeI0X8+eY9vnKASxR3oXf9lPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQ7Q7rOEfxEA8YoMTIKdG6SDZXiBB3Z3Q64yP9dJonGSmRpFoRClAI4I7I-CykffKk3eE2JSbq1jELtndghhnEQ2OotH5udGiq7V+DrojxDQWLhZKACTARdaWXpfCeO6hemLrvrlvRoPTBMQoHVe-ZJrcVoJ9GgqSf90rugDnSrrvKutDPTTiFjLAeduQCYuJIMw+bWCeI0X8+eY9vnKASxR3oXf9lPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQ7Q7rOEfxEA8YoMTIKdG6SDZXiBB3Z3Q64yP9dJonGSmRpFoRCCykffKk3eE2JSbq1jELtndghhnEQ2OotH5udGiq7V+DrojxDQWLhZKACTARdaWXpfCeO6hemLrvrlvRoPTBMQoHVe-ZJrcVoJ9GgqSf90rugDnSrrvKutDPTTiFjLAeduQCYuJIMw+bWCeI0X8+eY9vnKASxR3oXf9lPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQ7Q7rOEfxEA8YoMTIKdG6SDZXiBB3Z3Q64yP9dJonGSmRpFoRCVoJ9GgqSf90rugDnSrrvKutDPTTiFjLAeduQCYuJIMw+bWCeI0X8+eY9vnKASxR3oXf9lPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQVoJ9GgqSf90rugDnSrrvKutDPTTiFjLAeduQCYuJIMw+bWCeI0X8+eY9vnKASxR3oXf9lPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eY9vnKASxR3oXf9lPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQVoJ9GgqSf90rugDnSrrvKutDPTTiFjLAeduQlPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eCYuJIMw+bWCeI0X8+eY9vnKASxR3olPqAqYUHzGOzum-xMlPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+e7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eXf9lPqAlPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNlPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAedlPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+elPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+elPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+euQCYuJIMw+bWCeI0X8+elPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eAVdrpvVlPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAelPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eduQCYuJIMw+bWCeI0X8+e35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+elPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+euQCYuJIMw+bWCeI0X8+elPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eAVdrpvVlPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAelPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5UHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+euQCYuJIMw+bWCeI0X8+elPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eAVdrpvVlPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAelPqAqYUHzGOzum-xM7O-9Xwn99AQjRXGmCNAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eduQCYuJIMw+bWCeI0X8+e35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+WQTTiFjLAeduQCYuJIMw+bWCeI0X8+eduQCYuJIMw+bWCeI0X8+e35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+NAVdrpvV35wxk5WQTTiFjLAeduQCYuJIMw+bWCeI0X8+e
+import os
+import shutil
+import time
+
+
+def main_process(root, n, top_num, max_len):
+    project_list = traversal_dir(root)
+    output = 0
+    counter = 0
+    for project_ in project_list:
+        for i in range(10):
+            start = time.time()
+            result = evaluation(test_data, top_num, n, max_len)
+            print("Results: ", result)
+            output = output + result
+            counter += 1
+            print("Time used: ", time.time() - start)
+            print(output)
+            print(counter)
+    return output/counter
+
+
+code_root = ""
+n = 3
+top_num = 5
+max_len = 12
+result = main_process(code_root, n, top_num, max_len)
